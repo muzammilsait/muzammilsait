@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Muzammil
-- 👀 I’m interested in Full Stack Development Both in App and Web
-- 🌱 I’m currently exploring Gen AI and ML
-- 💞️ I’m currently contributing on WebCenter , TVE and SVOD Repositories
-- 📫 You can reach me on email : muzammilsait@aenetworks.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I love to code for every problem i discover in real time 😎
+
+👋 Hello, I'm Muzammil.
+
+👀 I have a keen interest in Full Stack Development for both web and app environments.
+
+🌱 Currently, I'm delving into Generative AI and Machine Learning.
+
+💞️ I'm actively contributing to repositories like WebCenter, TVE, and SVOD.
+
+📫 Feel free to reach out to me via email: muzammilsait@aenetworks.com
+
+😄 Pronouns: HE/HIM
+
+⚡ Fun fact: I thoroughly enjoy coding solutions for real-time problems I encounter. 😎
 
 <!---
 muzammilsait/muzammilsait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
