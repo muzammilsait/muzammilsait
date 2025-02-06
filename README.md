@@ -11,7 +11,10 @@
 
 😄 Pronouns: HE/HIM
 
-⚡ Fun fact: I thoroughly enjoy coding solutions for real-time problems I encounter. 😎
+⚡ Fun fact: I thoroughly enjoy coding for real-time problems I encounter. 😎
+---
+
+> "Turning challenges into solutions, one line of code at a time."
 
 <!---
 muzammilsait/muzammilsait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
