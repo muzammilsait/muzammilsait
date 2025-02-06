@@ -11,7 +11,7 @@
 
 😄 Pronouns: HE/HIM
 
-- ⚡ **Fun Fact**: I enjoy coding for real-time problems I encounter! 😎
+⚡ **Fun Fact**: I enjoy coding for real-time problems I encounter! 😎
 ---
 
 > "Turning challenges into solutions, one line of code at a time."
